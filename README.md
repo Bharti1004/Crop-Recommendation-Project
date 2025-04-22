@@ -1,4 +1,5 @@
 # Crop Recommendation System Using Machine Learning
+![Crop Recommendation System]("C:\Users\ASUS\Downloads\Crop Recommendation Project\outlook.png")
 # Description
 The Crop Recommendation System is a machine learning-based application that provides recommendations for suitable crops based on various environmental and soil conditions. It aims to assist farmers and agricultural professionals in making informed decisions about crop selection, optimizing yields, and maximizing profitability.
 
@@ -37,6 +38,3 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 
 # Acknowledgements
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
-
-# Contact
-For any inquiries or questions, please contact us at 611noorsaeed@gmail.com
