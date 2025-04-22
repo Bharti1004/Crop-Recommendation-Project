@@ -1,9 +1,8 @@
 # 🌾Crop Recommendation System Using Machine Learning
 A machine learning-powered application that suggests the most suitable crops based on real-time environmental and soil data — designed to empower farmers and agri-professionals in making smart, data-driven decisions.
 
-### 🚀 What It Does
-<br>
-Using environmental and soil parameters, this system recommends optimal crops to grow in a specific region. It considers:
+## 🚀 What It Does
+Using environmental and soil parameters, this system recommends optimal crops to grow in a specific region. It considers: <br>
 <br>
 	•	🌱 Soil nutrients (N, P, K) <br>
 	•	🌡 Temperature <br>
@@ -26,8 +25,7 @@ Using environmental and soil parameters, this system recommends optimal crops to
 	•	🖥 Clean and responsive web UI
 
 ## 🛠 Setup
-<br>
-Clone the repo
+### Clone the repo
 git clone https://github.com/Bharti1004/Crop-Recommendation-Project.git
 <br>
 cd Crop-Recommendation-Project
